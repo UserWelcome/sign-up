@@ -1,0 +1,44 @@
+
+
+*{
+align-content: normal;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+ 
+   
+}.form-group{
+    text-align: center;
+    background-color:rgb(226, 201, 218);
+    border-style: none;
+    
+
+}
+label{
+   font-size: larger;
+   display: block;
+   color:brown;
+   font-display:unset;
+
+}
+input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 6px;
+    text-align: left;
+   
+ 
+}
+.button{
+
+    
+    color: rgb(21, 14, 14);
+    background-color:rgb(128, 34, 139);
+    border-radius: 5px;
+    font-size:medium;
+    display: block;
+    padding: 5px;
+    margin: 5px auto;
+}

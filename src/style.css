@@ -1,0 +1,22 @@
+.App{
+    box-sizing: border-box;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+    padding: 20px;
+    display:inline-block;
+    flex-direction: column;
+    
+  
+}
+
+.edit{
+  
+    color: rgb(41, 32, 32);
+    border-radius: 5px;
+    font-size:medium;
+  
+    padding: 5px;
+    margin: 5px auto;;
+}
