@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import { Form } from 'react-bootstrap'
 
 const Edit = (props) => {
-
     const [values, setValues] = useState(props.currentUser)
     useEffect(() => { setValues(props.currentUser) }, [props])
 
